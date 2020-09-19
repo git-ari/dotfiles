@@ -1,3 +1,3 @@
 # dotfiles
 
-Personal `dotfiles`
+Personal `dotfiles`. A lifetime project.
